@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="4in"
+   height="4in"
+   viewBox="0 0 101.6 101.6"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.1 (91b66b0783, 2023-11-16)"
+   sodipodi:docname="jules-nametag.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="in"
+     inkscape:zoom="1.375477"
+     inkscape:cx="147.58517"
+     inkscape:cy="101.78287"
+     inkscape:window-width="1620"
+     inkscape:window-height="1010"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#92235a;stroke-width:0.254;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       d="M 0,34.942879 C 1.5811937,28.689248 92.319621,20.059949 94.426422,27.956082 96.533224,35.852217 53.471067,93.862236 43.255393,92.447828 33.039717,91.03342 -3.7474642,44.089395 0,34.942879 Z"
+       id="path1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.3389px;line-height:1;font-family:'Sandler Trial';-inkscape-font-specification:'Sandler Trial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-orientation:upright;text-anchor:middle;fill:#dc6ea5;fill-opacity:1;stroke:#000000;stroke-width:0.254;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       x="37.48653"
+       y="60.895046"
+       id="text3"
+       transform="rotate(-9.7238635)"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.3389px;font-family:'Sandler Trial';-inkscape-font-specification:'Sandler Trial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;fill:#dc6ea5;fill-opacity:1;stroke-width:0.254"
+         x="37.48653"
+         y="60.895046">Jules</tspan></text>
+    <g
+       id="g1"
+       inkscape:label="pronouns"
+       transform="translate(-1.5875,1.5875)">
+      <path
+         style="fill:#dc6ea5;fill-opacity:1;stroke:#92235a;stroke-width:0.109023;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+         d="m 83.130659,61.637606 c -9.973063,-3.629452 -54.216726,-4.373728 -55.307945,5.339754 -0.482151,4.291871 35.78162,15.576893 46.732474,13.269707 5.314287,-1.119643 15.73631,-15.244576 8.575471,-18.609461 z"
+         id="path2"
+         sodipodi:nodetypes="cssc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:1;font-family:Broadway;-inkscape-font-specification:'Broadway, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0.529167px;word-spacing:0px;text-orientation:upright;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.254;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         x="65.401382"
+         y="64.949844"
+         id="text2"
+         transform="rotate(6.57785)"><tspan
+           sodipodi:role="line"
+           id="tspan2"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666969px;font-family:Broadway;-inkscape-font-specification:'Broadway, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0.529167px;stroke:#000000;stroke-width:0.254;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           x="65.66597"
+           y="64.949844"
+           rotate="353 353 353 353 353 353 353 353 0">SHE/THEY</tspan></text>
+    </g>
+  </g>
+</svg>
