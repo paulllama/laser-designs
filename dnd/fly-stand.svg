@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="110mm"
+   height="55mm"
+   viewBox="0 0 110 55"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.1 (91b66b0783, 2023-11-16)"
+   sodipodi:docname="fly-stand.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.345188"
+     inkscape:cx="181.75898"
+     inkscape:cy="113.36705"
+     inkscape:window-width="1620"
+     inkscape:window-height="1010"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="stand"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path18"
+       style="fill:#b58900;stroke:none;stroke-width:3.05942;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:134.173;stroke-opacity:1;paint-order:stroke markers fill"
+       d="M 79.094247,9.181998 H 76.093913 V 6.187349 L 4.094174,1.691499 V 4.181786 H 1.09384 V 23.18166 h 3.000334 v 2.490288 l 71.999739,-4.49585 v -2.994133 h 3.000334 V 15.181632 H 40.094044 v -2.999817 h 39.000203 z"
+       inkscape:label="n-piece" />
+    <path
+       id="path9"
+       style="fill:#b58900;stroke:none;stroke-width:3.05942;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:134.173;stroke-opacity:1;paint-order:stroke markers fill"
+       d="m 1.09384,43.181412 h 3.000334 v 2.994649 l 71.999739,4.49585 v -2.490287 h 3.000334 V 40.181595 H 40.094043 V 37.181778 H 79.094247 V 29.18175 h -3.000334 v -2.490288 l -71.999739,4.49585 v 2.994133 H 1.09384 Z"
+       inkscape:label="u-piece" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="bases">
+    <path
+       id="circle19"
+       style="fill:#cb4b16;stroke:none;stroke-width:3;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:134.173;stroke-opacity:1;paint-order:stroke markers fill"
+       d="M 95.905931,30.308355 A 11.5,11.5 0 0 0 84.405857,41.808428 11.5,11.5 0 0 0 95.905931,53.308501 11.5,11.5 0 0 0 107.40599,41.808428 11.5,11.5 0 0 0 95.905931,30.308355 Z m -1.49965,7.000089 h 2.999814 v 2.999817 h 2.999805 v 2.999817 h -2.999805 v 3.000334 h -2.999814 v -3.000334 h -3.000334 v -2.999817 h 3.000334 z"
+       inkscape:label="top" />
+    <path
+       id="path19"
+       style="fill:#cb4b16;stroke:none;stroke-width:3;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:134.173;stroke-opacity:1;paint-order:stroke markers fill"
+       d="M 95.905931,1.691499 A 13,13 0 0 0 82.905691,14.691222 13,13 0 0 0 95.905931,27.691462 13,13 0 0 0 108.90616,14.691222 13,13 0 0 0 95.905931,1.691499 Z m -1.500167,3.5000448 h 3.000331 v 8.0000282 h 8.000025 v 2.999817 h -8.000025 v 8.000028 h -3.000331 v -8.000028 h -8.000029 v -2.999817 h 8.000029 z"
+       inkscape:label="bottom" />
+  </g>
+</svg>
