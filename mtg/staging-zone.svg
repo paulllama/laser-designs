@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="109mm"
+   height="226mm"
+   viewBox="0 0 109 226"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.1 (91b66b0783, 2023-11-16)"
+   sodipodi:docname="staging-zone.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.95119155"
+     inkscape:cx="321.17611"
+     inkscape:cy="229.71188"
+     inkscape:window-width="1620"
+     inkscape:window-height="1010"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="shapes"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <path
+       id="rect11"
+       style="fill:#002b36;stroke:none;stroke-width:0.506369;stroke-linecap:round;stroke-dashoffset:134.173;paint-order:stroke markers fill"
+       inkscape:label="foot"
+       d="M 86.50007,135.99994 A 1.0001,1.0001 0 0 0 85.50013,135 H 22.5 v 91.00017 h 63.00013 a 1.0001,1.0001 0 0 0 0.99994,-0.99994 z m -9.99997,9.6976 v 69.99988 h -2.99983 v -69.99988 z m -41.00031,0 v 69.99988 h -2.99983 v -69.99988 z" />
+    <path
+       id="rect12"
+       style="display:inline;fill:#dc322f;stroke:none;stroke-width:0.506369;stroke-linecap:round;stroke-dashoffset:134.173;paint-order:stroke markers fill"
+       inkscape:label="middle"
+       d="m 14.50015,125.0003 c 0,2.216 1.82977,3.99976 4.10259,3.99976 h 71.7951 c 2.27281,0 4.10208,-1.78376 4.10208,-3.99976 V 24.00028 C 94.49992,21.78428 92.67065,20 90.39784,20 h -71.7951 c -2.27282,0 -4.10259,1.78428 -4.10259,4.00028 z m 25.99996,-5.1e-4 V 24.00028 h 2.99982 V 124.9998 Z m 41.00008,0 V 24.00028 h 2.99982 V 124.9998 Z" />
+    <g
+       id="g45"
+       inkscape:label="top">
+      <path
+         id="rect15"
+         style="display:inline;fill:#b58900;stroke:none;stroke-width:0.506369;stroke-linecap:round;stroke-dashoffset:134.173;paint-order:stroke markers fill"
+         inkscape:label="cut"
+         d="M 3.9997559,0 C 1.7837625,0 0,1.829778 0,4.102592 v 71.795101 c 0,2.272814 1.7837625,4.102075 3.9997559,4.102075 H 8.8025635 V 69.999862 H 4.0002726 V 67.000045 H 8.8025635 V 28.99978 H 4.0002726 V 25.999963 H 8.8025635 V 16.999996 A 1.0001,1.0001 0 0 1 9.8025024,16.000057 H 98.802755 a 1.0001,1.0001 0 0 1 0.999939,0.999939 v 8.999967 h 5.197096 v 2.999817 h -5.197096 v 38.000265 h 5.197096 v 2.999817 h -5.197096 v 9.999906 h 5.197096 c 2.216,0 4.00028,-1.829261 4.00028,-4.102075 V 4.102592 C 109.00007,1.829778 107.21579,0 104.99979,0 Z" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;line-height:1.2;font-family:'Texas Tango BOLD PERSONAL USE';-inkscape-font-specification:'Texas Tango BOLD PERSONAL USE, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0.79375px;word-spacing:0px;text-orientation:upright;text-anchor:middle;fill:#586e75;stroke:none;stroke-width:0.499999;stroke-linecap:round;stroke-dashoffset:134.173;paint-order:stroke markers fill"
+         x="53.30265"
+         y="12.221519"
+         id="text8"><tspan
+           sodipodi:role="line"
+           id="tspan8"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:'Texas Tango BOLD PERSONAL USE';-inkscape-font-specification:'Texas Tango BOLD PERSONAL USE, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#586e75;stroke-width:0.5"
+           x="53.699524"
+           y="12.221519">staging</tspan></text>
+    </g>
+    <path
+       d="m 0,125.00017 h 3.00033 2.99982 v 15.50034 h 3.00033 v 69.99983 H 6.00015 v 15.49983 H 3.00033 0 v -4.9997 h 3.00033 v -91.0001 H 0 Z"
+       style="display:inline;fill:#d33682;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:134.173;paint-order:stroke markers fill"
+       id="path27"
+       inkscape:label="support" />
+    <path
+       d="m 109.00007,125.00017 h -3.00033 -2.99982 v 15.50034 h -3.00033 v 69.99984 h 3.00033 v 15.49982 h 2.99982 3.00033 v -4.9997 h -3.00033 v -91.00009 h 3.00033 z"
+       style="display:inline;fill:#d33682;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:134.173;paint-order:stroke markers fill"
+       id="path28"
+       inkscape:label="support" />
+  </g>
+</svg>
