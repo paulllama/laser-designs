@@ -24,10 +24,10 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.21449055"
-     inkscape:cx="692.3382"
-     inkscape:cy="860.17777"
-     inkscape:current-layer="g281">
+     inkscape:zoom="0.60667088"
+     inkscape:cx="498.62291"
+     inkscape:cy="488.73287"
+     inkscape:current-layer="g211">
     <inkscape:page
        x="0"
        y="0"
@@ -100,64 +100,60 @@
      inkscape:groupmode="layer"
      id="g211"
      style="display:inline">
-    <use
-       x="0"
-       y="0"
-       xlink:href="#path191"
-       id="use240"
-       transform="rotate(180,17.569225,72.308386)" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#path191"
-       id="use241"
-       transform="rotate(180,-23.999995,72.308387)" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#path265"
-       id="use268"
-       transform="rotate(180,17.569315,72.308487)" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#path265"
-       id="use269"
-       transform="rotate(180,-24.000075,72.308487)" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#path265"
-       id="use270"
-       transform="rotate(-60,-66.103609,-41.260878)" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#path265"
-       id="use271"
-       transform="rotate(60,18.103455,185.87785)" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#path265"
-       id="use272"
-       transform="translate(214.27705,-48.61698)" />
     <path
-       style="font-variation-settings:'wdth' 99.8, 'wght' 700;fill:none;fill-opacity:1;stroke:#073984;stroke-width:2;stroke-linecap:butt;stroke-dasharray:none;stroke-dashoffset:134.173;paint-order:markers fill stroke"
+       id="use240"
+       style="font-variation-settings:'wdth' 99.8, 'wght' 700;display:inline;fill:none;stroke:#073984;stroke-width:2.08715;stroke-linecap:square;stroke-dashoffset:134.173;paint-order:markers fill stroke"
+       transform="matrix(-0.47912253,-0.82986454,0.82986454,-0.47912253,116.51551,117.39337)"
+       d="M 15.059955,18.566546 58.440528,-6.4792404 101.8211,18.566545 V 68.658116 L 58.44053,93.703903 15.059956,68.658118 Z" />
+    <path
+       id="use241"
+       style="font-variation-settings:'wdth' 99.8, 'wght' 700;display:inline;fill:none;stroke:#073984;stroke-width:2.08715;stroke-linecap:square;stroke-dashoffset:134.173;paint-order:markers fill stroke"
+       transform="matrix(-0.47912253,-0.82986454,0.82986454,-0.47912253,33.377075,117.39337)"
+       d="M 15.059955,18.566546 58.440528,-6.4792404 101.8211,18.566545 V 68.658116 L 58.44053,93.703903 15.059956,68.658118 Z" />
+    <path
+       d="m 166.27688,48.000132 h -20.78375 l 10.39213,17.999935 h -20.78477 l 10.39213,17.999935"
+       style="font-variation-settings:'wdth' 99.8, 'wght' 700;fill:none;stroke:#073984;stroke-width:2;stroke-linecap:butt;stroke-dashoffset:134.173;paint-order:markers fill stroke"
+       id="use268"
+       inkscape:label="corner spikes"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       d="M 83.1381,48.000132 H 62.35435 L 72.74648,66.000067 H 51.961707 L 62.35384,84.000002"
+       style="font-variation-settings:'wdth' 99.8, 'wght' 700;fill:none;stroke:#073984;stroke-width:2;stroke-linecap:butt;stroke-dashoffset:134.173;paint-order:markers fill stroke"
+       id="use269"
+       inkscape:label="corner spikes"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       d="M 20.784679,83.999633 31.176554,66.000378 10.392088,66.000259 20.784474,48.000117 6.6829405e-6,48.000001"
+       style="font-variation-settings:'wdth' 99.8, 'wght' 700;fill:none;stroke:#073984;stroke-width:2;stroke-linecap:butt;stroke-dashoffset:134.173;paint-order:markers fill stroke"
+       id="use270"
+       inkscape:label="corner spikes"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       d="M 20.784903,12.000238 31.176778,29.999494 41.569114,11.999678 51.9615,29.999819 62.353835,12"
+       style="font-variation-settings:'wdth' 99.8, 'wght' 700;fill:none;stroke:#073984;stroke-width:2;stroke-linecap:butt;stroke-dashoffset:134.173;paint-order:markers fill stroke"
+       id="use271"
+       inkscape:label="corner spikes"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       d="m 83.1388,47.999862 h 20.78375 L 93.53042,29.999927 h 20.78477 L 103.92306,11.999992"
+       style="font-variation-settings:'wdth' 99.8, 'wght' 700;fill:none;stroke:#073984;stroke-width:2;stroke-linecap:butt;stroke-dashoffset:134.173;paint-order:markers fill stroke"
+       id="use272"
+       inkscape:label="corner spikes"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="font-variation-settings:'wdth' 99.8, 'wght' 700;display:inline;fill:none;fill-opacity:1;stroke:#073984;stroke-width:2;stroke-linecap:butt;stroke-dasharray:none;stroke-dashoffset:134.173;paint-order:markers fill stroke"
        d="M 103.92306,84.000001 145.49228,12"
        id="path272" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#path191"
+    <path
        id="use273"
-       transform="rotate(180,38.353835,112.62579)" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#path191"
+       style="font-variation-settings:'wdth' 99.8, 'wght' 700;display:inline;fill:none;stroke:#073984;stroke-width:2.08715;stroke-linecap:square;stroke-dashoffset:134.173;paint-order:markers fill stroke"
+       transform="matrix(-0.47912253,-0.82986454,0.82986454,-0.47912253,158.08473,198.02818)"
+       d="M 15.059955,18.566546 58.440528,-6.4792404 101.8211,18.566545 V 68.658116 L 58.44053,93.703903 15.059956,68.658118 Z" />
+    <path
        id="use274"
-       transform="rotate(180,-3.2153852,112.62579)" />
+       style="font-variation-settings:'wdth' 99.8, 'wght' 700;display:inline;fill:none;stroke:#073984;stroke-width:2.08715;stroke-linecap:square;stroke-dashoffset:134.173;paint-order:markers fill stroke"
+       transform="matrix(-0.47912253,-0.82986454,0.82986454,-0.47912253,74.946295,198.02818)"
+       d="M 15.059955,18.566546 58.440528,-6.4792404 101.8211,18.566545 V 68.658116 L 58.44053,93.703903 15.059956,68.658118 Z" />
   </g>
   <g
      inkscape:label="SMOOTH LINES"
