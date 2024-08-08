@@ -2,12 +2,12 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="215mm"
-   height="180mm"
-   viewBox="0 0 215 180"
+   width="470.84171mm"
+   height="378.74661mm"
+   viewBox="0 0 470.84171 378.74661"
    version="1.1"
    id="svg1"
-   sodipodi:docname="two-tone-hex-tiles.svg"
+   sodipodi:docname="hex-tile-designs.svg"
    inkscape:version="1.3.1 (91b66b0783, 2023-11-16)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,15 +24,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.60667088"
-     inkscape:cx="947.79562"
-     inkscape:cy="244.77852"
+     inkscape:zoom="0.21449055"
+     inkscape:cx="692.3382"
+     inkscape:cy="860.17777"
      inkscape:current-layer="g281">
     <inkscape:page
        x="0"
        y="0"
-       width="215"
-       height="180"
+       width="470.84171"
+       height="378.74661"
        id="page4"
        margin="0"
        bleed="0" />
@@ -42,22 +42,6 @@
        width="98.492188"
        height="181.463"
        id="page5"
-       margin="0"
-       bleed="0" />
-    <inkscape:page
-       x="260.99561"
-       y="0"
-       width="215"
-       height="180"
-       id="page274"
-       margin="0"
-       bleed="0" />
-    <inkscape:page
-       x="260.99561"
-       y="203.43732"
-       width="215.00002"
-       height="180"
-       id="page281"
        margin="0"
        bleed="0" />
   </sodipodi:namedview>
@@ -202,17 +186,17 @@
        d="M 304.06464,1.7320515 262.4956,25.732136 v 47.999653 l 41.56904,24.00009 41.56954,-24.0001 10e-6,-47.999642 z"
        inkscape:label="hex cut" />
     <path
-       style="color:#000000;fill:none;stroke:#4d1230;stroke-linecap:square;stroke-dashoffset:134.173;paint-order:markers fill stroke;stroke-width:2;stroke-dasharray:none"
+       style="color:#000000;fill:none;stroke:#4d1230;stroke-width:2;stroke-linecap:square;stroke-dasharray:none;stroke-dashoffset:134.173;paint-order:markers fill stroke"
        d="m 345.63477,54.732422 c 10.35259,-2.3e-4 19.9371,-5.534311 25.11328,-14.5 5.17637,-8.965707 5.17637,-20.034293 0,-29 m -8.66016,5 c 3.39805,5.885574 3.39805,13.114425 0,19 -3.39792,5.885563 -9.65712,9.499849 -16.45312,9.5 m 83.13671,0 c -6.796,-1.51e-4 -13.0552,-3.614437 -16.45312,-9.5 -3.39805,-5.885575 -3.39805,-13.114426 0,-19 m -8.66016,-5 c -5.17637,8.965707 -5.17637,20.034293 0,29 5.17618,8.965689 14.76069,14.49977 25.11328,14.5 m -58.02343,33.5 c 3.39799,-5.885687 9.65893,-9.5 16.45507,-9.5 6.79616,0 13.05709,3.614305 16.45508,9.5 m 8.66016,-5 c -5.17628,-8.96589 -14.76241,-14.5 -25.11524,-14.5 -10.35282,0 -19.93895,5.534122 -25.11523,14.5"
        id="path279"
        sodipodi:nodetypes="cccccccccccccsccsc" />
     <path
-       style="color:#000000;fill:none;stroke:#4d1230;stroke-linecap:square;stroke-dashoffset:134.173;paint-order:markers fill stroke;stroke-width:2;stroke-dasharray:none"
+       style="color:#000000;fill:none;stroke:#4d1230;stroke-width:2;stroke-linecap:square;stroke-dasharray:none;stroke-dashoffset:134.173;paint-order:markers fill stroke"
        d="m 320.51953,11.232422 c -5.17638,8.965704 -5.17638,20.034296 0,29 5.17628,8.965875 14.76241,14.5 25.11524,14.5 m 0,-10 c -6.79614,0 -13.05709,-3.614319 -16.45508,-9.5 -3.39805,-5.885563 -3.39805,-13.114437 0,-19 m -66.6836,38.5 c 6.79605,-8.7e-5 13.05699,3.614484 16.45508,9.5 3.39805,5.885562 3.39805,13.114438 0,19 m 8.66016,5 c 5.17638,-8.965703 5.17638,-20.034297 0,-29 -5.17644,-8.96563 -14.76254,-14.500133 -25.11524,-14.5"
        id="path280"
        sodipodi:nodetypes="cccccccscccc" />
     <path
-       style="color:#000000;fill:none;stroke:#4d1230;stroke-linecap:square;stroke-dashoffset:134.173;paint-order:markers fill stroke;stroke-width:2;stroke-dasharray:none"
+       style="color:#000000;fill:none;stroke:#4d1230;stroke-width:2;stroke-linecap:square;stroke-dasharray:none;stroke-dashoffset:134.173;paint-order:markers fill stroke"
        d="m 278.95117,16.232422 41.56836,72 m 8.66016,-5 -41.56836,-72"
        id="path281"
        sodipodi:nodetypes="cccc" />
