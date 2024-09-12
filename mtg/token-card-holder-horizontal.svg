@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.1 (91b66b0783, 2023-11-16)"
+   sodipodi:docname="token-card-holder-horizontal.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.9023831"
+     inkscape:cx="224.19249"
+     inkscape:cy="164.79331"
+     inkscape:window-width="1620"
+     inkscape:window-height="1010"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#b58900;stroke-width:0.499999;stroke-linejoin:bevel;paint-order:stroke markers fill"
+       id="rect1"
+       width="92"
+       height="66"
+       x="11.128985"
+       y="7.9677515"
+       rx="2"
+       ry="2" />
+    <g
+       id="g7">
+      <rect
+         style="fill:#cb4b16;stroke-width:0.499999;stroke-linejoin:bevel;paint-order:stroke markers fill"
+         id="rect2"
+         width="40"
+         height="16"
+         x="17.128984"
+         y="16.967752"
+         rx="4"
+         ry="8" />
+      <rect
+         style="fill:#cb4b16;stroke-width:0.499999;stroke-linejoin:bevel;paint-order:stroke markers fill"
+         id="rect3"
+         width="40"
+         height="16"
+         x="57.128986"
+         y="16.967752"
+         rx="4"
+         ry="8" />
+      <rect
+         style="fill:#cb4b16;stroke-width:0.499999;stroke-linejoin:bevel;paint-order:stroke markers fill"
+         id="rect4"
+         width="40"
+         height="16"
+         x="17.128984"
+         y="32.967751"
+         rx="4"
+         ry="8" />
+      <rect
+         style="fill:#cb4b16;stroke-width:0.499999;stroke-linejoin:bevel;paint-order:stroke markers fill"
+         id="rect5"
+         width="40"
+         height="16"
+         x="57.128986"
+         y="32.967751"
+         rx="4"
+         ry="8" />
+      <rect
+         style="fill:#cb4b16;stroke-width:0.499999;stroke-linejoin:bevel;paint-order:stroke markers fill"
+         id="rect6"
+         width="40"
+         height="16"
+         x="17.128984"
+         y="48.967751"
+         rx="4"
+         ry="8" />
+      <rect
+         style="fill:#cb4b16;stroke-width:0.499999;stroke-linejoin:bevel;paint-order:stroke markers fill"
+         id="rect7"
+         width="40"
+         height="16"
+         x="57.128986"
+         y="48.967751"
+         rx="4"
+         ry="8" />
+    </g>
+    <rect
+       style="fill:#cb4b16;stroke-width:0.465637;stroke-linejoin:bevel;paint-order:stroke markers fill"
+       id="rect8"
+       width="92.000015"
+       height="3"
+       x="11.128975"
+       y="13.967752" />
+    <rect
+       style="fill:#cb4b16;stroke-width:0.465637;stroke-linejoin:bevel;paint-order:stroke markers fill"
+       id="rect9"
+       width="92.000015"
+       height="3"
+       x="11.128975"
+       y="64.967751" />
+  </g>
+</svg>
